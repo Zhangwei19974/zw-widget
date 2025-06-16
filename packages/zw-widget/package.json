@@ -1,0 +1,18 @@
+{
+  "name": "@danyaqf/zw-widget",
+  "version": "1.0.0",
+  "description": "基于naive-ui组件库的二次封装",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.5",
+  "peerDependencies": {
+    "vue": "^3.5.13"
+  },
+  "dependencies": {}
+}
